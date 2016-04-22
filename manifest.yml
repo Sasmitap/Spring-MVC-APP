@@ -4,7 +4,7 @@ applications:
   memory: 1024M
   host: SpringWebMVC
   domain: cfapps.io
-  description: MVC Application
+  description: MVC Application For Helloworld
   env:
     SPRING_PROFILES_ACTIVE: cloud
   buildpack: java_buildpack
